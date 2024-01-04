@@ -1,5 +1,6 @@
 const db = require('./config/connection.js');
 const { asciiArtLogo } = require('./lib/asciiArt.js');
+const mainMenu = require('./lib/mainMenu.js');
 
 // Starts application
 init();
@@ -8,5 +9,5 @@ init();
 // displays Ascii-art Logo
 function init() {
     asciiArtLogo();
-    
+    mainMenu();
 };
