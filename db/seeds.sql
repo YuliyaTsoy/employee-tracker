@@ -14,7 +14,7 @@ VALUES
 ('Account Manager', 160000, 2),
 ('Accountant', 125000, 2),
 ('Legal Team Lead', 250000, 3), 
-('Lawyer', 190000, 3)
+('Lawyer', 190000, 3);
 
 
 
@@ -27,4 +27,4 @@ VALUES
 ('Kunal', 'Singh', 5, NULL),
 ('Malia', 'Brown', 6, 5),
 ('Sarah', 'Lourd', 7, NULL),
-('Tom', 'Allen', 8, 7)
+('Tom', 'Allen', 8, 7);
